@@ -1,0 +1,24 @@
+Página Inicial
+
+Gerson - As Branquelas, Velozes e Furiosos, Planeta dos macacos, Os Vingadores, Logan.
+
+Rafael - Inter estrelar, Coraline, O Hobbit, Perdidos em Marte, Super Herói o Filme
+
+Ismael - Constantine, Star Wars, O Senhor dos anéis, V de Vingança, Sexta Feira 13
+
+Alan - Pulp Fiction, Piratas do Caribe, Transformers, Homem Aranha, ET 
+
+Ozias - Coração Valente, Coração de cavalheiro, Watchman, Matrix, Naufrago
+
+Lucas - Pokemon 2000, Capitão America, Procura da Felicidade, Zorran, Indenpendence Day.
+
+Luan - Lobo de Wall Street, Carros, Prenda-me se for capaz, Menina de Ouro,Sniper Americano
+
+Henrique - Mib, Kingsman, Ritmo de fuga, Eu sou a lenda, Homem de Ferro
+
+Gregory - Piratas do vale do silicio, Hackers, Batman, 11 homens e 1 segredo, Tratamento de choque
+
+
+
+Quantidade de Links  - 10
+Quantidade de Componestes - 45
