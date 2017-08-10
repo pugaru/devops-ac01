@@ -1,0 +1,4 @@
+Desenvolver 1 site com 5 filmes preferidos de cada membro.
+
+Esse site deverá ser desenvolvido em várias páginas. 1 página para cada membro. Ter 1 página inicial com indice para navegação de páginas de cada membro.
+
