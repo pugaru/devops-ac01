@@ -1,3 +1,3 @@
 # Melhores atletas
-<nome>
+Didier Drogba
 ----
