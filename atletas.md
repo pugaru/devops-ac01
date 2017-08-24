@@ -1,3 +1,3 @@
 # Melhores atletas
-<nome>
+Mike Tyson
 ----
