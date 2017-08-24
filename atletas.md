@@ -1,5 +1,6 @@
 # Melhores atletas
-Ronaldinho Gaucho
-Faker
 
-----
+Ronaldinho Gaucho
+Lionel Messi
+Didier Drogba
+Faker
